@@ -43,6 +43,8 @@ $(document).ready(function() {
             { "name": "Salesforce-Twilio Integration", "desc": "", "url": "salesforce-twilio-integration", "git": "" },
             { "name": "Gmail-Google Sheets Integration", "desc": "", "url": "gmail-spreadsheet-integration", "git": "" },
             { "name": "SonarQube-GitHub Integration ", "desc": "", "url": "sonarqube-github-integration", "git": "" },
+            { "name": " Ballerina-Honeycomb", "desc":"", "url":"ballerina-honeycomb", "git": ""},
+            { "name": " Message-Tracing-with-Stream-Processor", "desc":"", "url":"message-tracing-with-stream-processor", "git": ""}
 
         ]
     };
